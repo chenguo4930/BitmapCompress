@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Tue Dec 26 11:14:00 CST 2017
+1.base=E\:\\Study\\BitmapCompress\\app\\build\\intermediates\\transforms\\stripDebugSymbol\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=NATIVE_RESOURCE
+0.path=classes.dex
+0.set=DEX
+0.base=E\:\\Study\\BitmapCompress\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+1.path=lib/armeabi-v7a/libnative-lib.so

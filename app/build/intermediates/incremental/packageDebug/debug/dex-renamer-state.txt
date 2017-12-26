@@ -1,0 +1,4 @@
+#Tue Dec 26 11:14:00 CST 2017
+base.0=E\:\\Study\\BitmapCompress\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
